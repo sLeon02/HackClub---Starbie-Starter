@@ -1,0 +1,11 @@
+Level,Part Name,SKU,Quantity Per Unit,Unit Cost,Total Cost,Website/Supplier,Complete Cost
+1,Seeed Studio XIAO ESP32-S3 Sense,113991115,1,$13.99,$13.99,https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html,$42.13
+2,Inland DHT11 Temperature Humidity Moisture Sensor Module,78477,1,$5.99,$5.99,https://www.microcenter.com/product/618777/DHT11_Temperature_Humidity_Moisture_Sensor_Module?storeID=185,
+3,"Adafruit Industries MPU-6050 6-DoF Accel and Gyro Sensor - STEMMA QT Qwiic
+",262139,1,$12.99,$12.99,https://www.microcenter.com/product/635843/adafruit-industries-mpu-6050-6-dof-accel-and-gyro-sensor-stemma-qt-qwiic,
+4,Tactile Button Assortment,41350,1,$4.49,$4.49,https://www.microcenter.com/product/427684/tactile-button-assortment,
+5,Passive Buzzer Module,(UPC) 722704680769,1,$1.66,$1.66,https://www.amazon.com/Passive-Buzzer-Arduino-3-3V-5V-Interface/dp/B07KNV8KVJ/ref=sr_1_8?crid=Q9LMHE6JMZUS&dib=eyJ2IjoiMSJ9.M4_Rpr6MoAGjrkE4n-raigs37ydkFVrTKCQUc0-Tdbqcw0mdML39BGjMIeGOezQi9RVSDf9oqDb5HQxTwfC5Z2dBi7hHvGl_MKUznkzpyq7uj8E-taWUjBXIBLySoeTxwDXTmcWeRXK6UNplhMdSZpzHwjet5agt4SPR4GbC4AG2zvqMJQsiMqMKdaGpxDtyLKSAg7Pj7vsbul9OE9WdsV3a6p8G_MgtoYQRCiI5frSCZztkjsSuTtDmW-3vM4ic6HWDaX_6UriTEfwBqbO5lFOe9he8sc12GbLLiAzFx-0.6qqTsDpwUbAZ0j7GjArGwWmL4h8zTgE5uDrFxqQb0aw&dib_tag=se&keywords=passive+buzzer+single&qid=1791762174&refinements=p_36%3A-800&rnid=386442011&s=electronics&sprefix=passive+buzzer+singl%2Celectronics%2C119&sr=1-8,
+6,"OLED Display 128x64 096"" I2C",NF,1,$3.01,$3.01,https://www.amazon.com/Display-Compact-Self-Luminous-Screens-Projects/dp/B0G146VKR8/ref=sr_1_2_hul_core?crid=2S7MMYNZWIQ7&dib=eyJ2IjoiMSJ9.GiVRpL-Lz5VB7DcQgCYXEm1fNk7mSr16I6EWYhcAb05suIW2V6eKsFlykucohJh_qFx2bt-_z5x4SAAYyQKJJUFa10GzqrzAACKzif0Zl_EVkCVhi0N5NZn3c6619QdaizJjYmkzAW_J7Cq_rrAstvRZLBiYFvx_MOupGS9COGfmd3Aq4xvbuOVXPlN2ZpsHKZdX69HTn5M6fMnkzpCpdBR-a0nBeWwEtXNtHJC60iA.NhSy9GBqYqH9ApShrRgh8eKk3i-zlNFKHkMNAfeRadA&dib_tag=se&keywords=0.96%22+128x64+OLED&qid=1791762909&refinements=p_36%3A-1000&rnid=386442011&s=bazaar&sprefix=0.96+128x64+oled%2Caps%2C197&sr=8-2,
+,,,,,,,
+,,,,,,,
+,,,,,,,
